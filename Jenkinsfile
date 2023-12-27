@@ -10,13 +10,7 @@ pipeline {
                 }
             }
         }
-
-        // Additional stages and steps...
-    }
-
-    post {
-        always {
-            // Cleanup or additional actions can go here
-        }
     }
 }
+
+    
